@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fake News Detection App</string>
+    <string name="positive">Legitimate</string>
+    <string name="negative">Fake News</string>
+</resources>
